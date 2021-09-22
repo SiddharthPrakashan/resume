@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 
   var typed = new Typed('.intro', {
-    strings: ["I'm a full-stack web developer.", "I'm an artist", "I make memes too XD", "Let's talk"],
+    strings: ["I'm a full-stack software developer.", "I'm an artist", "I'm an aquarium hobbyist", "I make memes too XD", "Let's talk"],
     typeSpeed: 30,
   });
 
